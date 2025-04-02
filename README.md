@@ -33,23 +33,10 @@ The dataset contains the following columns:
 - Scikit-learn
 - TensorFlow & Keras
 
-## 🚀 How to Run
-
-1. Clone this repository.
-2. Install dependencies using pip:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-4. Open `Breast-Cancer-ANN.ipynb` and run all cells.
-
 ## ✅ Results
 
 The ANN model achieves high accuracy in classifying tumors, showing the effectiveness of deep learning in medical diagnostics.
 
 ---
 
-> 📌 This project is for educational purposes and demonstrates the power of ANNs in binary classification problems in healthcare.
+
